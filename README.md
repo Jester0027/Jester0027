@@ -1,4 +1,6 @@
-## 👋 Hello There
+<div style="text-align:center;"><img src="assets/hellothere.png" /></div>
+<br />
+<br />
 
 👇 Look at this TypeScript file to now more about me 👇
 ```typescript
