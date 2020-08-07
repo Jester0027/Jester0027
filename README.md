@@ -1,4 +1,4 @@
-<div style="text-align:center;"><img src="https://raw.githubusercontent.com/Jester0027/Jester0027/master/assets/hellothere.png" /></div>
+<div style="text-align:center;"><img src="https://raw.githubusercontent.com/Jester0027/Jester0027/master/assets/hellothere.gif" /></div>
 <br />
 <br />
 
