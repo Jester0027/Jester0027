@@ -1,4 +1,4 @@
-<div style="text-align:center;"><img src="https://raw.githubusercontent.com/Jester0027/Jester0027/master/assets/hellothere.gif" /></div>
+![Hello There gif](https://raw.githubusercontent.com/Jester0027/Jester0027/master/assets/hellothere.gif)
 <br />
 <br />
 
@@ -30,3 +30,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+## Stats
+![Jester0027's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jester0027&count_private=true&include_all_commits=true&layout=compact&theme=prussian)
