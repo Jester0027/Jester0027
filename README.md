@@ -32,4 +32,4 @@
 
 
 ## 📊 Stats
-![Jester0027's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jester0027&count_private=true&include_all_commits=true&layout=compact&theme=prussian)
+![Jester0027's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jester0027&count_private=true&include_all_commits=true&layout=compact&theme=prussian&hide_title=true)
