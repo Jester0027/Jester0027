@@ -1,37 +1,46 @@
-## 🧱 My Stacks
+# Hello, I'm Paul 👋
 
-#### 💬 Languages
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/Jester0027?style=social)
 
-#### 📱 Front-End 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![ViteJS](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+I'm a full-stack software developer with a passion for creating robust and scalable applications.
+My expertise lies in C#/ .NET, React, and Angular, and I'm also proficient in PHP, Symfony, NodeJS, PostgreSQL, Docker, and Kubernetes.
+I thrive in a Linux environment and love exploring new technologies and methodologies to improve my craft.
 
-#### 🗃️ Back-End 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-151515?style=for-the-badge&logo=nestjs&logoColor=DD0031)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## 🌐 Open Source Projects
 
-#### 🛠️ Other Tools
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- **[ReactorX](https://github.com/Jester0027/ReactorX)**
+  
+  [![GitHub stars](https://img.shields.io/github/stars/Jester0027/ReactorX?style=social)](https://github.com/Jester0027/ReactorX)
+  [![GitHub forks](https://img.shields.io/github/forks/Jester0027/ReactorX?style=social)](https://github.com/Jester0027/ReactorX)
+  [![GitHub issues](https://img.shields.io/github/issues/Jester0027/ReactorX)](https://github.com/Jester0027/ReactorX/issues)
 
+  A PHP Framework based on [ReactPHP](https://reactphp.org/).
+  ReactorX reimagines PHP runtime as an asynchronous system, inspired by ASP.NET Core and Spring Boot.
+  It moves away from the typical PHP app structure where each script runs as its own thread,
+  towards a more efficient process spinning asynchronous system calls.
 
-## 📊 Stats
-![Jester0027's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jester0027&count_private=true&include_all_commits=true&layout=compact&theme=prussian&hide_title=true)
+- **[Discord Press](https://github.com/Jester0027/discord-press)**
+  
+  [![GitHub stars](https://img.shields.io/github/stars/Jester0027/discord-press?style=social)](https://github.com/Jester0027/discord-press)
+  [![GitHub forks](https://img.shields.io/github/forks/Jester0027/discord-press?style=social)](https://github.com/Jester0027/discord-press)
+  [![GitHub issues](https://img.shields.io/github/issues/Jester0027/discord-press)](https://github.com/Jester0027/discord-press/issues)
+
+  A unique project that transforms a Discord thread channel into a blog. Built using AdonisJS, it includes a Discord bot that listens for thread events on a Discord server and feeds a database, which is then used by the AdonisJS web app.
+
+## 💼 Professional Skills
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=fff)
+
+## 📫 How to Reach Me
+
+For any inquiries, or just a chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paul-etienne-280370182/).
