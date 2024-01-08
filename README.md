@@ -27,7 +27,7 @@ I thrive in a Linux environment and love exploring new technologies and methodol
 
   A unique project that transforms a Discord thread channel into a blog. Built using AdonisJS, it includes a Discord bot that listens for thread events on a Discord server and feeds a database, which is then used by the AdonisJS web app.
 
-## 💼 Professional Skills
+## 💼 Technical Skills
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
